@@ -1,3 +1,15 @@
-Hello, world!
+<!--
+Metadat goes here!
+-->
 
-When user says FOO, that's usually because BAR. Do BAZ.
+## Hello, world!
+
+### Identify the problem
+When user says FOO, that's usually because BAR.
+
+### Solve the problem
+Do BAZ.
+
+<!--
+Check details go here.
+-->
